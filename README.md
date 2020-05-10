@@ -1,4 +1,4 @@
-# Objetive
+# Objective
 
 Algorithm for detect faces and classify if have a mask or not in Covid-19 pandemic time.
 
