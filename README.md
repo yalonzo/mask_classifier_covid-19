@@ -1,4 +1,5 @@
-# MASK CLASSIFIER
+# Mask Classifier
+
 Mask classifier using Deep Learning Techniques
 
 <p align="center"> 
